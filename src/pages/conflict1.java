@@ -9,7 +9,8 @@ public class conflict1 {
 		System.out.println("Project Uploaded .....................A");
 		System.out.println("ON Branch A");
 		System.out.println("----------------------------------------");
-		System.out.println("ON Branch B Line 12 changes new line added");
+		System.out.println("ON Branch B Line 12 changes new line added change made by B");
+		System.out.println("Added by Branch B");
 
 	}
 
